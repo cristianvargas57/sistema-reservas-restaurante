@@ -15,7 +15,7 @@ Proyecto final desarrollado en Java utilizando Netbeans.
 - Condultar que clientes consumieron cada tipo de menú.
 
 # Autor
-Cristian Vargas
+Cristian Julian Vargas Martínez y Juan Pablo Franco Solarte
 
 # Estado del Proyecto
 Proyecto académico finalizado.
